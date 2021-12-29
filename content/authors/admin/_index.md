@@ -1,6 +1,7 @@
 ---
 title: Yukang Yang
 role: ""
+avatar_filename: 杨郁康_19级工学硕士_自动化系.jpg
 bio: My research interests include machine learning and computer vision, mainly
   on medical image analysis and efficient deep learning.
 interests:
