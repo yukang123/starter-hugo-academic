@@ -1,8 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Yukang Yang
+role: ""
+bio: My research interests include machine learning and computer vision, mainly
+  on medical image analysis and efficient deep learning.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
