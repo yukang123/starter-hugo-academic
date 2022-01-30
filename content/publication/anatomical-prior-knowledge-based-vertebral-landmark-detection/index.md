@@ -12,6 +12,8 @@ authors:
 publication: submitted to IEEE Transactions on Medical Imaging
 draft: false
 featured: false
+projects:
+  - example
 image:
   filename: ""
   focal_point: ""
