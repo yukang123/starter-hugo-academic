@@ -13,24 +13,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/en/
 education:
   courses:
-    - course: MSE in Artificial Intelligence
+    - course: "MSE in Control Science and Engineering "
       institution: Department of Automation, Tsinghua University
       year: ""
     - course: B.E. in Automation
