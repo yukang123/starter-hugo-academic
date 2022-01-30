@@ -15,10 +15,10 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=ASZWVzEAAAA
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.cn/injobs/in/yukang-yang-91431b1b6
 organizations:
   - name: Tsinghua University
     url: https://www.tsinghua.edu.cn/en/
