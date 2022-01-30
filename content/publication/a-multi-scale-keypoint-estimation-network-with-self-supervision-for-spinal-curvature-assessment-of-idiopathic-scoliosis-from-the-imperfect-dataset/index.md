@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "AI_in_Medicine.pdf"
+url_pdf: "/publication/a-multi-scale-keypoint-estimation-network-with-self-supervision-for-spinal-curvature-assessment-of-idiopathic-scoliosis-from-the-imperfect-dataset/AI_in_Medicine.pdf"
 publication_types:
   - "2"
 authors:
