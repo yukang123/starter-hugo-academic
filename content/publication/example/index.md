@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "Publication 2_Ubicomp-ISWC 2020.pdf"
+url_pdf: "https://yukangyang.netlify.app/publication/example/Publication 2_Ubicomp-ISWC 2020.pdf"
 publication_types:
   - "1"
 authors:
