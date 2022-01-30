@@ -8,7 +8,7 @@ interests:
   - Machine Learning
   - Intelligent healthcare
   - Medical Image Analysis
-  - Efficient machine learning
+  - Efficient deep learning
 social:
   - icon: envelope
     icon_pack: fas
