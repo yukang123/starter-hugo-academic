@@ -7,7 +7,7 @@ authors:
   - Tianyu Liu
   - admin
   - Wenhui Fan
-  - Cheng W
+  - Cheng Wu
 draft: false
 featured: false
 image:
