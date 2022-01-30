@@ -9,11 +9,12 @@ authors:
   - Shiji Song
   - Wenhui Fan
   - Gao Huang
+publication: submitted to IEEE Transactions on Medical Imaging
 draft: false
 featured: false
 image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-01-30T11:37:41.648Z
+date: 2021-12-15T11:37:00.000Z
 ---
