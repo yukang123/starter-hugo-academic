@@ -8,6 +8,7 @@ authors:
   - admin
   - Wenhui Fan
   - Cheng Wu
+publication: In Digital Signal Processing
 draft: false
 featured: false
 image:
