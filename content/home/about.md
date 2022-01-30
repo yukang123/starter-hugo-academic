@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 杨郁康_实验室网站照片.jpg
+    image: ""
 ---
