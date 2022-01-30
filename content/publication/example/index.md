@@ -23,7 +23,7 @@ url_video: ""
 title: Spinal curve assessment of idiopathic scoliosis with a small dataset via
   a multi-scale keypoint estimation approach
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
@@ -33,7 +33,7 @@ image:
   preview_only: false
 date: 2022-01-30T07:57:26.488Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
