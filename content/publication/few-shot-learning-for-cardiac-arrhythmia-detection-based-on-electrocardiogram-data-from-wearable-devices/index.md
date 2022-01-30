@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "https://yukangyang.netlify.app/publication/few-shot-learning-for-cardiac-arrhythmia-detection-based-on-electrocardiogram-data-from-wearable-devices/Digital_Signal_Processing.pdf"
+url_pdf: "/publication/few-shot-learning-for-cardiac-arrhythmia-detection-based-on-electrocardiogram-data-from-wearable-devices/Digital_Signal_Processing.pdf"
 publication_types:
   - "2"
 authors:
