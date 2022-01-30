@@ -1,6 +1,6 @@
 ---
 abstract: ""
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
