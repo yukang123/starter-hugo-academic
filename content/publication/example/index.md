@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "Publication 2_Ubicomp-ISWC 2020.pdf"
 publication_types:
   - "1"
 authors:
