@@ -33,7 +33,7 @@ image:
   preview_only: true
 date: 2022-01-30T07:57:26.488Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-09
 url_poster: ""
 url_code: ""
 ---
