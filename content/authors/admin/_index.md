@@ -34,6 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Yukang Yang is a third-year master's student in the Leap Lab, Department of Automation, Tsinghua University. His research interests lie in machine learning and intelligent healthcare, focusing on medical image analysis and efficient machine learning.
+I am a third-year master's student in the Leap Lab, Department of Automation, Tsinghua University, supervised by [Prof. Gao Huang](http://www.gaohuang.net/). My research interests lie in machine learning and intelligent healthcare, focusing on medical image analysis and efficient machine learning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
