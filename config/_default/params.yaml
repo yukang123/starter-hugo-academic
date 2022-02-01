@@ -24,12 +24,12 @@ email: yyk19@mails.tsinghua.edu.cn
 # phone: 888 888 88 88
 address:
   # Room 616, Central Main building, Tsinghua University, Beijing 
-  street: 450 Serra Mall
+  street: Room 518, Central Main building, Tsinghua University
   city: Beijing
   # region: CA
   postcode: '100084'
   country: China
-  country_code: CN
+  country_code: CHN
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
