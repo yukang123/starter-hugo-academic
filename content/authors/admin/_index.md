@@ -26,10 +26,10 @@ education:
   courses:
     - course: "MSE in Control Science and Engineering, 2019-2022 (expected) "
       institution: Department of Automation, Tsinghua University
-      year: ""
-    - course: B.E. in Automation
+      year: 2022
+    - course: B.E. in Automation, 2015-2019
       institution: ShenYuan Honors College, Beihang University
-      year: ""
+      year: 2019
 email: ""
 superuser: true
 highlight_name: true
