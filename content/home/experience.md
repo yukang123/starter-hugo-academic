@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:        
   - title: Exchange Student
-    company: Technische Universität Dresden
+    company: Technische Universitat Dresden
     company_url: ''
-    company_logo: org-TUD
+    company_logo: org-X
     location: Dresden, Germany
     date_start: '2018-10-01'
     date_end: '2019-03-31'
