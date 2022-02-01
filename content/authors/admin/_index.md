@@ -24,7 +24,7 @@ organizations:
     url: https://www.tsinghua.edu.cn/en/
 education:
   courses:
-    - course: "MSE in Control Science and Engineering "
+    - course: "MSE in Control Science and Engineering, 2019-2022 (expected) "
       institution: Department of Automation, Tsinghua University
       year: ""
     - course: B.E. in Automation
