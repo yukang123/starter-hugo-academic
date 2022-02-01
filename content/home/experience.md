@@ -30,7 +30,7 @@ experience:
     date_start: '2018-10-01'
     date_end: '2019-03-31'
     description: sponsored by CSC full scholarship, major in Nanoelectronic Systems
-    (Courses: Fundamentals of Estimation and Detection, Lab Sessions Nanoelectronic Systems)
+    
 
 design:
   columns: '2'
