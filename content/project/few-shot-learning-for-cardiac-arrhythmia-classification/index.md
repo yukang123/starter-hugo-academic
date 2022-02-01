@@ -1,7 +1,7 @@
 ---
 title: Few-shot learning for cardiac arrhythmia classification
 date: 2022-02-01T15:03:48.016Z
-summary: Efficient
+summary: ""
 draft: false
 featured: false
 categories:
