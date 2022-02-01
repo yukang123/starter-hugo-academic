@@ -1,7 +1,6 @@
 ---
-abstract: ""
-slides: ""
-url_pdf: "/publication/a-multi-scale-keypoint-estimation-network-with-self-supervision-for-spinal-curvature-assessment-of-idiopathic-scoliosis-from-the-imperfect-dataset/AI_in_Medicine.pdf"
+title: A multi-scale keypoint estimation network with self-supervision for
+  spinal curvature assessment of idiopathic scoliosis from the imperfect dataset
 publication_types:
   - "2"
 authors:
@@ -12,26 +11,27 @@ authors:
   - Wenhui Fan
   - Cody Bunger
   - Cheng Wu
-author_notes: []
-publication: In Artificial Intelligence in Medicine
-summary: ""
-url_dataset: ""
-url_project: ""
 publication_short: ""
-url_source: ""
-url_video: ""
-title: A multi-scale keypoint estimation network with self-supervision for
-  spinal curvature assessment of idiopathic scoliosis from the imperfect dataset
-doi: ""
+abstract: ""
 draft: false
 featured: false
 tags: []
-projects:
-  - example
+slides: ""
+url_pdf: /publication/a-multi-scale-keypoint-estimation-network-with-self-supervision-for-spinal-curvature-assessment-of-idiopathic-scoliosis-from-the-imperfect-dataset/AI_in_Medicine.pdf
 image:
   caption: ""
   focal_point: ""
   preview_only: false
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: In Artificial Intelligence in Medicine
+projects:
+  - Vertebral Landmark Detection on X-ray Images
 date: 2022-01-26T10:02:00.000Z
 url_slides: ""
 publishDate: 2022-01
