@@ -13,7 +13,7 @@ publication: submitted to IEEE Transactions on Medical Imaging
 draft: false
 featured: false
 projects:
-  - example
+  - Vertebral Landmark Detection on X-ray Images
 image:
   filename: ""
   focal_point: ""
