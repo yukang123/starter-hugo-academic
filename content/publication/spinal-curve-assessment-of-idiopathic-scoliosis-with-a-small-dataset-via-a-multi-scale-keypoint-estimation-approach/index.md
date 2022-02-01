@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "/publication/spinal-curve-assessment-of-idiopathic-scoliosis-with-a-small-dataset-via-a-multi-scale-keypoint-estimation-approach/Ubicomp-ISWC.pdf"
+url_pdf: /publication/spinal-curve-assessment-of-idiopathic-scoliosis-with-a-small-dataset-via-a-multi-scale-keypoint-estimation-approach/Ubicomp-ISWC.pdf
 publication_types:
   - "1"
 authors:
@@ -30,7 +30,7 @@ projects:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 date: 2020-09-03T16:00:00.000Z
 url_slides: ""
 publishDate: 2020-09
