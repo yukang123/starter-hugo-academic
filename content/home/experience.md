@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: abc
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
