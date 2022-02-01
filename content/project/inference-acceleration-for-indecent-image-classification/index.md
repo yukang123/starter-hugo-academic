@@ -3,6 +3,8 @@ title: Inference acceleration for indecent image classification
 date: 2022-02-01T15:07:52.260Z
 draft: false
 featured: false
+tags:
+  - Efficient Machine Learning
 categories:
   - Efficient Machine Learning
 image:
