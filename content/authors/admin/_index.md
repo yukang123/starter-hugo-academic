@@ -30,8 +30,10 @@ education:
     - course: B.E. in Automation, 2015-2019
       institution: ShenYuan Honors College, Beihang University
       year: ""
-email: ""
+email: yyk19@mails.tsinghua.edu.cn
 superuser: true
+user_groups:
+  - Tsinghua University
 highlight_name: true
 ---
 I am a third-year master's student in the Leap Lab, Department of Automation, Tsinghua University, supervised by [Prof. Gao Huang](http://www.gaohuang.net/). My research interests lie in machine learning and intelligent healthcare, focusing on medical image analysis and efficient deep learning.
