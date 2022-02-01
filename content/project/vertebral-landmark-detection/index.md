@@ -4,6 +4,8 @@ date: 2022-02-01T11:40:51.069Z
 summary: ""
 draft: false
 featured: false
+tags:
+  - Medical Image Analysis
 categories:
   - Medical Image Analysis
 image:
