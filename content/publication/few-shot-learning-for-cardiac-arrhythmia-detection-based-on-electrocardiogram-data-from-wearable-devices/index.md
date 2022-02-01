@@ -28,7 +28,7 @@ author_notes: []
 doi: ""
 publication: In Digital Signal Processing
 projects:
-  - Few-shot learning for cardiac arrhythmia classification
+  - few-shot-learning-for-cardiac-arrhythmia-classification
 date: 2021-09-10T10:02:00.000Z
 url_slides: ""
 publishDate: 2021-09
