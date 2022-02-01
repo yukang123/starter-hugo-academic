@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "/publication/spinal-curve-assessment-of-idiopathic-scoliosis-with-a-small-dataset-via-a-multi-scale-keypoint-estimation-approach/Ubicomp-ISWC.pdf"
+url_pdf: /publication/spinal-curve-assessment-of-idiopathic-scoliosis-with-a-small-dataset-via-a-multi-scale-keypoint-estimation-approach/Ubicomp-ISWC.pdf
 publication_types:
   - "1"
 authors:
@@ -26,7 +26,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - example
+  - Vertebral Landmark Detection on X-ray Images
 image:
   caption: ""
   focal_point: ""
