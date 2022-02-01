@@ -13,7 +13,7 @@ publication: submitted to IEEE Transactions on Medical Imaging
 draft: false
 featured: false
 projects:
-  - Vertebral Landmark Detection on X-ray Images
+  - Vertebral-Landmark-Detection
 image:
   filename: ""
   focal_point: ""
