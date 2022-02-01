@@ -3,16 +3,16 @@ slides: example
 url_pdf: ""
 summary: detecting vertebral landmarks for the diagnosis of scoliosis
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Vertebral Landmark Detection
 tags:
   - Deep Learning
-links:
+links: null
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 url_code: ""
 ---
 Brief introduction: estimating the locations of corner/center landmarks for each vertebra on anterior-posteriorspine X-ray images ( thoracic and lumbar spine, 17 vertebrae per image)
