@@ -4,6 +4,8 @@ date: 2022-02-01T15:03:48.016Z
 summary: ""
 draft: false
 featured: false
+tags:
+  - Efficient Machine Learning
 categories:
   - Efficient Machine Learning
 image:
