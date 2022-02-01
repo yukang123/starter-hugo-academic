@@ -27,10 +27,10 @@ featured: false
 tags: []
 projects:
   - example
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: ""
+#  focal_point: ""
+#  preview_only: false
 date: 2020-09-03T16:00:00.000Z
 url_slides: ""
 publishDate: 2020-09
