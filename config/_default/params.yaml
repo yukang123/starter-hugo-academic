@@ -23,12 +23,13 @@ twitter: ''
 email: yyk19@mails.tsinghua.edu.cn
 # phone: 888 888 88 88
 address:
+  # Room 616, Central Main building, Tsinghua University, Beijing 
   street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  city: Beijing
+  # region: CA
+  postcode: '100084'
+  country: China
+  country_code: CN
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
