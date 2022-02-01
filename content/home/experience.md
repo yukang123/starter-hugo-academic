@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: abc
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:        
   - title: Exchange Student
-    company: Technische Universitat Dresden
+    company: Technische Universität Dresden
     company_url: ''
-    company_logo: org-X
+    company_logo: org-x
     location: Dresden, Germany
     date_start: '2018-10-01'
     date_end: '2019-03-31'
