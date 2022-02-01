@@ -17,7 +17,8 @@ url_code: ""
 ---
 Brief introduction: estimating the locations of corner/center landmarks for each vertebra on anterior-posteriorspine X-ray images ( thoracic and lumbar spine, 17 vertebrae per image)
 
-* Basic Architecture: heatmap-based pose estimation algorithm (backbone: HRNet)  Multi-head mechanism: calculating corner offset with regard to center points after calibrating center land-mark predictions, which are extracted from the 17-channel center heatm
+* Basic Architecture: heatmap-based pose estimation algorithm (backbone: HRNet) 
+  Multi-head mechanism: calculating corner offset with regard to center points after calibrating center land-mark predictions, which are extracted from the 17-channel center heatm
 
 
 
