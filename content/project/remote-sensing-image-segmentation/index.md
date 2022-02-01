@@ -4,6 +4,8 @@ date: 2022-02-01T15:06:26.563Z
 summary: ""
 draft: false
 featured: false
+tags:
+  - Computer Vision
 categories:
   - Computer Vision
 image:
