@@ -35,9 +35,25 @@ Firstly, I explicitly formulated two types of anatomical priors related to dista
 
 Then I incorporated this prior knowledge with the vanilla method by designing specialized training penalties and inference schemes.
 
+* Anatomy-constraint Loss
+
+Among the vertebra triplets, I constrained the center landmark of the middle vertebra close to the mid-point of the other two landmarks.
+
+![](triplet-loss.png)
+
+* Anatomy-aided Inference
+
+I employ sequential inference. Similar to the autoregressive sequence prediction of language, each vertebral center landmark is generated based on the former predicted landmark. The feasible range R (yellow rectangle) of the current center landmark would be restricted according to the spatial relationship with the former center landmark prediction. 
+
+![](inf.png)
+
 \
-Moreover, to emphasize the importance of anatomical plausibility for reliable clinical use, I provided novel anatomy-related metrics beyond the widely-used localization error. 
+Moreover, to emphasize the importance of anatomical plausibility for reliable clinical use, I provided novel anatomy-related metrics, calculating the numbers of vertebrae that disobey anatomical prior, beyond the widely-used localization error. 
+
+![](fail_constraints_update.png "Vertebrae which disobey the anatomical prior")
 
 Finally, I showed the effectiveness of designed components by performing extensive ablation studies. 
+
+![](screenshot-20220202-170957.png)
 
 I have submitted my paper to *[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)*.
