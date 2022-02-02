@@ -29,7 +29,7 @@ url_source: ""
 url_video: ""
 author_notes: []
 doi: ""
-publication: In Artificial Intelligence In Medicine
+publication: In Artificial Intelligence in Medicine
 projects:
   - vertebral-landmark-detection-on-x-ray-images
 date: 2022-01-26T10:02:00.000Z
