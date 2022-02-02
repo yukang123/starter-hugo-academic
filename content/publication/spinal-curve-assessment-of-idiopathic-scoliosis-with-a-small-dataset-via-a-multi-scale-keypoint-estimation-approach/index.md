@@ -26,7 +26,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - Vertebral-Landmark-Detection
+  - Vertebral-Landmark-Detection-on-X-ray-images
 image:
   caption: ""
   focal_point: ""
