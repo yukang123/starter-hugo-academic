@@ -27,7 +27,9 @@ However, I found that some predicted landmarks disobeyed the anatomy of the spin
 
 ![](overall-architecture_1.png)
 
-firstly, I explicitly formulated two types of anatomical priors related to distance range and spatial order among landmarks. 
+For the basic architecture, I adopted a heatmap-based pose estimation algorithm with the powerful backbone network [HRNet](https://arxiv.org/abs/1908.07919). I utilized the three-head mechanism to attain landmarks. I calculated corner offset (using *F*c) with regard to center points after calibrating center land-mark predictions (using *F*a), which are extracted from the 17-channel center heatmap *Y*.
+
+Firstly, I explicitly formulated two types of anatomical priors related to distance range and spatial order among landmarks. 
 
 Then I incorporated this prior knowledge with the vanilla method by designing specialized training penalties and inference schemes.
 
