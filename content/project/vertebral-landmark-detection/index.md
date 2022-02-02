@@ -16,3 +16,5 @@ image:
   preview_only: false
 ---
 Normally, clinicians evaluate the curvature of the spine by calculating the Cobb angles for scoliosis diagnosis. They should identify vertebrae first and then select tilted ones for Cobb angle measurement. In order to relieve the burden of manual operation, we use machine learning methods to automatically detect vertebral landmarks.
+
+![](sample-of-annotations.png)
