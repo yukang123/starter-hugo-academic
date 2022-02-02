@@ -1,5 +1,5 @@
 ---
-title: Vertebral Landmark Detection on X-ray Images
+title: Vertebral landmark detection on X-ray images
 date: 2021-12-09T11:40:00.000Z
 summary: "**Brief introduction:** estimating the locations of corner/center
   landmarks for each vertebra on anterior-posterior spine X-ray images for the
