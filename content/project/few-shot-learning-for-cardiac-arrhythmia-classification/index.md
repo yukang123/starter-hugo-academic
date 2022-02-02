@@ -23,6 +23,8 @@ First, we process the ECG signal into 2D spectrograms by using short-time Fourie
 
 ![](screenshot-20220202-184432.png)
 
-Then we proposed a meta-transfer scheme.
+Then we proposed a metric-based meta-transfer scheme.  Different from standard metric-based meta-learning algorithms, such as [PrototyNet](https://arxiv.org/abs/1703.05175), we used the auxiliary dataset from PTB diagnostic database to pretrain the feature extractor at first by implementing binary classification task (categorize into ill or healthy cases).  Then we transfered this prior knowledge into the few-shot learning on MIT-BIH dataset  of 5 classes (healthy cases and 4 specific cardiac arrhythmia types). 
 
 ![](screenshot-20220202-192225.png)
+
+I programmed the proposed method and conducted extensive experiments. We demonstrated that with the proposed meta-transfer scheme, our method outperforms other comparative methods in terms of accuracy when handling various few-shot tasks. Finally, we published it on *[Digital Signal Processing](https://www.sciencedirect.com/science/article/pii/S1051200421001330)*.
