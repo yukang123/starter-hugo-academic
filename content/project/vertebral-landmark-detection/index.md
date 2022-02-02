@@ -18,3 +18,5 @@ image:
 Normally, clinicians evaluate the curvature of the spine by calculating the Cobb angles for scoliosis diagnosis. They should identify vertebrae first and then select tilted ones for Cobb angle measurement. In order to relieve the burden of manual operation, we use machine learning methods to automatically detect vertebral landmarks.
 
 ![](sample-of-annotations.png)
+
+As preliminary, we collected spine X-ray images from Peking University First Hospital and I annotated two types of landmarks, 68 corner landmarks and 17 center landmarks, on X-ray images. In total, we built a spine X-ray dataset of more than 1000 samples.  The relevant paper has been submitted to *[Scientific Data](https://www.nature.com/sdata/journal-information)*.
