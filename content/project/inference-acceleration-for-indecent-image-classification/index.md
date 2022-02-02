@@ -16,3 +16,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Due to the limited computational resources of the edge devices, the efficiency of ML methods is important for employment. 
+
+![](self-introduction_yukang-yang_-tsinghua-university.gif)
