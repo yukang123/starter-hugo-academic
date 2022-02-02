@@ -1,6 +1,6 @@
 ---
 title: Vertebral Landmark Detection on X-ray Images
-date: 2022-02-01T11:40:51.069Z
+date: 2021-12-09T11:40:00.000Z
 summary: "Brief introduction: estimating the locations of corner/center
   landmarks for each vertebra on anterior-posterior spine X-ray images for the
   diagnosis of scoliosis"
