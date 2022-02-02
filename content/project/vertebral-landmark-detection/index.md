@@ -13,4 +13,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Brief introduction: estimating the locations of corner/center landmarks for each vertebra on anterior-posterior spine X-ray images
+Brief introduction: estimating the locations of corner/center landmarks for each vertebra on anterior-posterior spine X-ray images for the diagnosis of scoliosis
