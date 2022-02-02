@@ -19,4 +19,4 @@ Typically, we use ECG signals to diagnose the type of cardiac arrhythmia. This c
 
 First, we process the ECG signal into 2D spectrograms.
 
-![](图片3.png)
+![](screenshot-20220202-184432.png)
