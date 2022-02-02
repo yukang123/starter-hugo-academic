@@ -50,10 +50,20 @@ I employ sequential inference. Similar to the autoregressive sequence prediction
 \
 Moreover, to emphasize the importance of anatomical plausibility for reliable clinical use, I provided novel anatomy-related metrics, calculating the numbers of vertebrae that disobey anatomical prior, beyond the widely-used localization error. 
 
-![](fail_constraints_update.png "Vertebrae which disobey the anatomical prior")
+![](fail_constraints_update.png "Vertebrae which disobey the anatomical priors")
 
 Finally, I showed the effectiveness of designed components by performing extensive ablation studies. 
 
+![](screenshot-20220202-172249.png)
+
 ![](screenshot-20220202-170957.png)
+
+For anatomy-constraint loss:
+
+![](results_1.png "(b) adding the anatomy-constraint loss")
+
+For anatomy-aided inference:
+
+![](inf_results.png "(a) adding the anatomy-constraint loss (b) adding the anatomy-constraint loss and adopting the anatomy-aided inference")
 
 I have submitted my paper to *[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)*.
