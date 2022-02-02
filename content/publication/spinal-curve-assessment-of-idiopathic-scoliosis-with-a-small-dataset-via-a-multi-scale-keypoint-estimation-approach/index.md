@@ -26,7 +26,7 @@ doi: ""
 featured: false
 tags: []
 projects:
-  - remote-sensing-image-segmentation #Vertebral-Landmark-Detection-on-X-ray-images
+  - vertebral-landmark-detection-on-x-ray-images #remote-sensing-image-segmentation
 image:
   caption: ""
   focal_point: ""
