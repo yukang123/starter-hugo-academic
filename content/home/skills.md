@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Python>MATLAB>C
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Programming Languages
+- description: Optimization, Statistics, Matrix Analysis
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Mathematical Background
+- description: classical ML methods and advanced DL algorithms
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Prevalent ML Methods
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
