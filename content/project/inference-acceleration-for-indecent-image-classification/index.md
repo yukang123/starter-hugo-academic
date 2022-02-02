@@ -1,10 +1,10 @@
 ---
 title: Inference acceleration for indecent image classification
 date: 2022-02-01T15:07:52.260Z
-summary: "Brief introduction: filtering indecent images on Internet by
+summary: "**Brief introduction:** filtering indecent images on the Internet by
   implementing a 6-class image classification task, the aim is to reduce the
   inference latency without sacrificing accuracy for further employment on edge
-  devices."
+  devices. (Collaborating with China Mobile Research Institute)"
 draft: false
 featured: false
 tags:
@@ -22,4 +22,6 @@ Our solution was employing an adaptive inference scheme with dynamic neural netw
 
 ![](self-introduction_yukang-yang_-tsinghua-university~2.gif)
 
-While maintaining the accuracy of 97.06%, I reduced the average latency by nearly 75% and will further deploy on phones.
+Compared with the baseline model, Hierarchical Bilinear Pooling (HBP), used by the former service, I reduced the average latency by 70% while maintaining the accuracy of 97.06%.
+
+![](图片5.png)
