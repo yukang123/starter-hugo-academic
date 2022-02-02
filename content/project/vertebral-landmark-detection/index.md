@@ -19,4 +19,4 @@ Normally, clinicians evaluate the curvature of the spine by calculating the Cobb
 
 ![](sample-of-annotations.png)
 
-As preliminary, we collected spine X-ray images from Peking University First Hospital and I annotated two types of landmarks, 68 corner landmarks and 17 center landmarks, on X-ray images. In total, we built a spine X-ray dataset of more than 1000 samples.  The relevant paper has been submitted to *[Scientific Data](https://www.nature.com/sdata/journal-information)*.
+As preliminary, we collected spine X-ray images from Peking University First Hospital and I annotated two types of landmarks, 68 corner landmarks and 17 center landmarks, on X-ray images. In total, we built a novel annotated spine X-ray dataset of more than 1000 samples.  The relevant paper has been submitted to *[Scientific Data](https://www.nature.com/sdata/journal-information)*.
