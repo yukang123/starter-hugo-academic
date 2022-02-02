@@ -20,6 +20,6 @@ Due to the limited computational resources of the edge devices, the efficiency o
 
 Our solution was employing an adaptive inference scheme with dynamic neural networks. For this 6-class image classification task, I employ the novel spatially adaptive inference framework, [GFNet](https://proceedings.neurips.cc/paper/2020/file/1963bd5135521d623f6c29e6b1174975-Paper.pdf), proposed by our Leap Lab. 
 
-![](self-introduction_yukang-yang_-tsinghua-university.gif)
+![](self-introduction_yukang-yang_-tsinghua-university~2.gif)
 
 While maintaining the accuracy of 97.06%, I reduced the average latency by nearly 75% and will further deploy on phones.
