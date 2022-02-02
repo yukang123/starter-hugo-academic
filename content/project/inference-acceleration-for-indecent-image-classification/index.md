@@ -24,6 +24,8 @@ The framework glances at the whole image of small size (96*96) at first; then th
 
 ![](self-introduction_yukang-yang_-tsinghua-university~2.gif "Early-exit Scheme")
 
-Compared with the baseline model, Hierarchical Bilinear Pooling (HBP), used by the former service, I reduced the average latency by 70% while maintaining the accuracy of 97.06% after programming the early-exit scheme for batch inference.
+Compared with the baseline model, Hierarchical Bilinear Pooling (HBP), used by the former service of China Mobile Inc., I reduced the average latency by 70% while maintaining the accuracy of 97.06% after programming the early-exit scheme for batch inference.
 
 ![](图片5.png)
+
+![](no_label_compare_results_vs_time_batch_size_1024.gif)
