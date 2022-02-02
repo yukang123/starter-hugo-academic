@@ -15,3 +15,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+The theme of this competition is to segment remote sensing images and classify different parts into 7 types of landforms, such as lanes, water, or grassland. 
+
+We adopted the powerful semantic segmentation method, DeeplabV3+ with the backbone of ResNet101.
