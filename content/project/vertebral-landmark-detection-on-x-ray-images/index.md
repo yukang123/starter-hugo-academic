@@ -31,15 +31,13 @@ For the basic architecture, I adopted a heatmap-based pose estimation algorithm 
 
 Firstly, I explicitly formulated two types of anatomical priors related to distance range and spatial order among landmarks. 
 
+![](图片1.png)
+
 Then I incorporated this prior knowledge with the vanilla method by designing specialized training penalties and inference schemes.
 
 \
 Moreover, to emphasize the importance of anatomical plausibility for reliable clinical use, I provided novel anatomy-related metrics beyond the widely-used localization error. 
 
-
-
 Finally, I showed the effectiveness of designed components by performing extensive ablation studies. 
-
-
 
 I have submitted my paper to *[IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)*.
