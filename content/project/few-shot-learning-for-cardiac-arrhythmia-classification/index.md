@@ -1,6 +1,6 @@
 ---
 title: Few-shot learning for cardiac arrhythmia classification
-date: 2022-02-01T15:03:48.016Z
+date: 2021-03-05T15:03:00.000Z
 summary: "**Brief introduction:** few-shot learning problem for cardiac
   arrhythmia classification with the ECG signal collected from the wearable
   devices to employ AI edge computing."
