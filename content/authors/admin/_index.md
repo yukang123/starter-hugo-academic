@@ -7,8 +7,8 @@ bio: My research interests lie in machine learning and computer vision with the
   efficient machine learning.
 interests:
   - Machine Learning
-  - Intelligent healthcare
   - Computer Vision
+  - Intelligent healthcare
   - Medical Image Analysis
   - Efficient machine learning
 social:
