@@ -2,11 +2,13 @@
 title: Yukang Yang
 role: ""
 avatar_filename: avatar.jpg
-bio: My research interests include machine learning and computer vision, mainly
-  on medical image analysis and efficient machine learning.
+bio: My research interests lie in machine learning and computer vision with the
+  application in intelligent healthcare, mainly on medical image analysis and
+  efficient machine learning.
 interests:
   - Machine Learning
   - Intelligent healthcare
+  - Computer Vision
   - Medical Image Analysis
   - Efficient machine learning
 social:
@@ -36,6 +38,6 @@ user_groups:
   - Tsinghua University
 highlight_name: true
 ---
-I am a third-year master's student in the Leap Lab, Department of Automation, Tsinghua University, supervised by [Prof. Gao Huang](http://www.gaohuang.net/). My research interests lie in machine learning and intelligent healthcare, focusing on medical image analysis and efficient machine learning.
+I am a third-year master's student in the Leap Lab, Department of Automation, Tsinghua University, supervised by [Prof. Gao Huang](http://www.gaohuang.net/). My research interests lie in machine learning and computer vision with the application in intelligent healthcare, focusing on medical image analysis and efficient machine learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yukang_Yang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
